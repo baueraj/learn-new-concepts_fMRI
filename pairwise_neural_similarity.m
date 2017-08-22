@@ -6,7 +6,7 @@ clear all
 
 %% set up
 
-load real_dissimil_data
+load neural_similarity_data
 
 noSimulations = 100000;
 
