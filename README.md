@@ -1,5 +1,5 @@
 # learn-new-concepts_fMRI
-Analysis of fMRI data showing neural changes associated with learning new concepts
+Analysis of fMRI data showing neural changes associated with learning new concepts.
 
 ## Code description
 Code snippets of machine learning classification of brain states associated with the incremental learning of features of new concepts (extinct animals); and representational similarity analysis revealing the informational content of the newly implanted neural representations underlying the new animal concept knowledge.
